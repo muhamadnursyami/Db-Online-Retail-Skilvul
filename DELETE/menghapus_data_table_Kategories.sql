@@ -1,0 +1,1 @@
+DELETE FROM Kategories where id = 10;
