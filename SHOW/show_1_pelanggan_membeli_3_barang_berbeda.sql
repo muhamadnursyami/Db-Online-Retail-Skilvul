@@ -1,0 +1,1 @@
+SELECT * from Transaksi where id_pelanggan = 1;
