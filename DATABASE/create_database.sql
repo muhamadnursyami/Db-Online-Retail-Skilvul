@@ -1,0 +1,2 @@
+create database online_retail_skilvul;
+use online_retail_Skilvul;
